@@ -1,0 +1,5 @@
+type,real,PSNR (RTEST)
+simple,no,18.98
+simple,yes,19.17
+advanced,no,19.23
+advanced,yes,19.42

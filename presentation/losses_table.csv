@@ -1,0 +1,6 @@
+name,t_epoch
+mset,5.3m
+vggt,6.4m
+vggtr,7.1m
+l1r_vggtr,7.1m
+l1r_vggtr_excltr,7.6m
